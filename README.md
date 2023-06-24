@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghavan Vaidhyaraman</h1>
-<h3 align="center">An Enthusiastic Data Scientist</h3>
+<h3 align="center">A Machine Learning Enthusiast and Data Scientist</h3>
 <div align="center">
   <img align="riight" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </div>
